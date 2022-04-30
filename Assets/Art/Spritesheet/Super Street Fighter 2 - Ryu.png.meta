@@ -1,0 +1,5268 @@
+fileFormatVersion: 2
+guid: 837382dc0a4558d47945336c146944b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8270029916276309194
+    second: Super Street Fighter 2 - Ryu_0
+  - first:
+      213: 4106927916882714053
+    second: Super Street Fighter 2 - Ryu_1
+  - first:
+      213: 3156784953836236310
+    second: Super Street Fighter 2 - Ryu_2
+  - first:
+      213: 4775903447581395834
+    second: Super Street Fighter 2 - Ryu_3
+  - first:
+      213: -3585282625165496398
+    second: Super Street Fighter 2 - Ryu_4
+  - first:
+      213: 7591909031853799759
+    second: Super Street Fighter 2 - Ryu_5
+  - first:
+      213: -8339912904235920587
+    second: Super Street Fighter 2 - Ryu_6
+  - first:
+      213: -5932341452283150292
+    second: Super Street Fighter 2 - Ryu_7
+  - first:
+      213: 1270856508118002614
+    second: Super Street Fighter 2 - Ryu_8
+  - first:
+      213: 7108465335494318168
+    second: Super Street Fighter 2 - Ryu_9
+  - first:
+      213: -2270505665993551724
+    second: Super Street Fighter 2 - Ryu_10
+  - first:
+      213: -5590962377684238198
+    second: Super Street Fighter 2 - Ryu_11
+  - first:
+      213: -6472077332455452760
+    second: Super Street Fighter 2 - Ryu_12
+  - first:
+      213: 8292569759271869788
+    second: Super Street Fighter 2 - Ryu_13
+  - first:
+      213: -6343809150191912880
+    second: Super Street Fighter 2 - Ryu_14
+  - first:
+      213: -4072287849189764725
+    second: Super Street Fighter 2 - Ryu_15
+  - first:
+      213: -3069546388928858832
+    second: Super Street Fighter 2 - Ryu_16
+  - first:
+      213: 3618397536032067672
+    second: Super Street Fighter 2 - Ryu_17
+  - first:
+      213: -441378610501681957
+    second: Super Street Fighter 2 - Ryu_18
+  - first:
+      213: -995744718258360342
+    second: Super Street Fighter 2 - Ryu_19
+  - first:
+      213: 3047833785849892932
+    second: Super Street Fighter 2 - Ryu_20
+  - first:
+      213: 72384320232251116
+    second: Super Street Fighter 2 - Ryu_21
+  - first:
+      213: -162300764963729305
+    second: Super Street Fighter 2 - Ryu_22
+  - first:
+      213: 1830841220973113709
+    second: Super Street Fighter 2 - Ryu_23
+  - first:
+      213: 5435541305001360570
+    second: Super Street Fighter 2 - Ryu_24
+  - first:
+      213: -8165729624228613662
+    second: Super Street Fighter 2 - Ryu_25
+  - first:
+      213: -921472473200911693
+    second: Super Street Fighter 2 - Ryu_26
+  - first:
+      213: -7803604347294498633
+    second: Super Street Fighter 2 - Ryu_27
+  - first:
+      213: -2485018605569626923
+    second: Super Street Fighter 2 - Ryu_28
+  - first:
+      213: 640762638390421857
+    second: Super Street Fighter 2 - Ryu_29
+  - first:
+      213: 6636556133549704333
+    second: Super Street Fighter 2 - Ryu_30
+  - first:
+      213: 1596751071423799511
+    second: Super Street Fighter 2 - Ryu_31
+  - first:
+      213: 966571942237622503
+    second: Super Street Fighter 2 - Ryu_32
+  - first:
+      213: 5286734347951167592
+    second: Super Street Fighter 2 - Ryu_33
+  - first:
+      213: 5764325114744965030
+    second: Super Street Fighter 2 - Ryu_34
+  - first:
+      213: 5888535409301696065
+    second: Super Street Fighter 2 - Ryu_35
+  - first:
+      213: -2794583459552901283
+    second: Super Street Fighter 2 - Ryu_36
+  - first:
+      213: 8882807296673911824
+    second: Super Street Fighter 2 - Ryu_37
+  - first:
+      213: -8383717267488948167
+    second: Super Street Fighter 2 - Ryu_38
+  - first:
+      213: 5125149731831415420
+    second: Super Street Fighter 2 - Ryu_39
+  - first:
+      213: 4895564837558983115
+    second: Super Street Fighter 2 - Ryu_40
+  - first:
+      213: 8578761784414814328
+    second: Super Street Fighter 2 - Ryu_41
+  - first:
+      213: 6202738884341651323
+    second: Super Street Fighter 2 - Ryu_42
+  - first:
+      213: -1243303386181244794
+    second: Super Street Fighter 2 - Ryu_43
+  - first:
+      213: 1039170270487910355
+    second: Super Street Fighter 2 - Ryu_44
+  - first:
+      213: -1219363509940377152
+    second: Super Street Fighter 2 - Ryu_45
+  - first:
+      213: 3045035802305102016
+    second: Super Street Fighter 2 - Ryu_46
+  - first:
+      213: -1012101997245794474
+    second: Super Street Fighter 2 - Ryu_47
+  - first:
+      213: -903643666075808726
+    second: Super Street Fighter 2 - Ryu_48
+  - first:
+      213: -8709478086013058866
+    second: Super Street Fighter 2 - Ryu_49
+  - first:
+      213: -5533632374642056379
+    second: Super Street Fighter 2 - Ryu_50
+  - first:
+      213: 6493139482330862534
+    second: Super Street Fighter 2 - Ryu_51
+  - first:
+      213: 7462309114642182574
+    second: Super Street Fighter 2 - Ryu_52
+  - first:
+      213: -9000892229984825015
+    second: Super Street Fighter 2 - Ryu_53
+  - first:
+      213: 2968585266357560632
+    second: Super Street Fighter 2 - Ryu_54
+  - first:
+      213: 416079354325490890
+    second: Super Street Fighter 2 - Ryu_55
+  - first:
+      213: 790775515884906836
+    second: Super Street Fighter 2 - Ryu_56
+  - first:
+      213: 5196947421695821577
+    second: Super Street Fighter 2 - Ryu_57
+  - first:
+      213: -6322910067455563575
+    second: Super Street Fighter 2 - Ryu_58
+  - first:
+      213: 8230942400107110727
+    second: Super Street Fighter 2 - Ryu_59
+  - first:
+      213: -2665209810551930343
+    second: Super Street Fighter 2 - Ryu_60
+  - first:
+      213: -1025489268625686142
+    second: Super Street Fighter 2 - Ryu_61
+  - first:
+      213: -3842169185395676994
+    second: Super Street Fighter 2 - Ryu_62
+  - first:
+      213: 6541291043368695612
+    second: Super Street Fighter 2 - Ryu_63
+  - first:
+      213: -238536615663810876
+    second: Super Street Fighter 2 - Ryu_64
+  - first:
+      213: 6474585407195288470
+    second: Super Street Fighter 2 - Ryu_65
+  - first:
+      213: -3045043142783000420
+    second: Super Street Fighter 2 - Ryu_66
+  - first:
+      213: -8284435069455826807
+    second: Super Street Fighter 2 - Ryu_67
+  - first:
+      213: -2300634082836811146
+    second: Super Street Fighter 2 - Ryu_68
+  - first:
+      213: 8318144546399876063
+    second: Super Street Fighter 2 - Ryu_69
+  - first:
+      213: 2383761252222577039
+    second: Super Street Fighter 2 - Ryu_70
+  - first:
+      213: 4298429024013844320
+    second: Super Street Fighter 2 - Ryu_71
+  - first:
+      213: -2617546422825077496
+    second: Super Street Fighter 2 - Ryu_72
+  - first:
+      213: 4372585784520052429
+    second: Super Street Fighter 2 - Ryu_73
+  - first:
+      213: 6440050804843195752
+    second: Super Street Fighter 2 - Ryu_74
+  - first:
+      213: 4941463175192576093
+    second: Super Street Fighter 2 - Ryu_75
+  - first:
+      213: -7294809399135389634
+    second: Super Street Fighter 2 - Ryu_76
+  - first:
+      213: 4390879143619460158
+    second: Super Street Fighter 2 - Ryu_77
+  - first:
+      213: 671620288580900253
+    second: Super Street Fighter 2 - Ryu_78
+  - first:
+      213: 7665968960966371552
+    second: Super Street Fighter 2 - Ryu_79
+  - first:
+      213: -2272543618745733266
+    second: Super Street Fighter 2 - Ryu_80
+  - first:
+      213: -6877843026957300663
+    second: Super Street Fighter 2 - Ryu_81
+  - first:
+      213: 2944159205551090309
+    second: Super Street Fighter 2 - Ryu_82
+  - first:
+      213: -6890818708814251265
+    second: Super Street Fighter 2 - Ryu_83
+  - first:
+      213: 3357305140182085261
+    second: Super Street Fighter 2 - Ryu_84
+  - first:
+      213: 8622287554127140020
+    second: Super Street Fighter 2 - Ryu_85
+  - first:
+      213: 1751459873094650793
+    second: Super Street Fighter 2 - Ryu_86
+  - first:
+      213: -7058298295342227626
+    second: Super Street Fighter 2 - Ryu_87
+  - first:
+      213: 1826908194463380838
+    second: Super Street Fighter 2 - Ryu_88
+  - first:
+      213: -6233589744661854092
+    second: Super Street Fighter 2 - Ryu_89
+  - first:
+      213: -8782795660896832473
+    second: Super Street Fighter 2 - Ryu_90
+  - first:
+      213: -8574414176945185140
+    second: Super Street Fighter 2 - Ryu_91
+  - first:
+      213: -2330752458706927642
+    second: Super Street Fighter 2 - Ryu_92
+  - first:
+      213: -6560777713785435761
+    second: Super Street Fighter 2 - Ryu_93
+  - first:
+      213: -775623449656339949
+    second: Super Street Fighter 2 - Ryu_94
+  - first:
+      213: 8328626897689055080
+    second: Super Street Fighter 2 - Ryu_95
+  - first:
+      213: -7186539972267042280
+    second: Super Street Fighter 2 - Ryu_96
+  - first:
+      213: -8416370719652819438
+    second: Super Street Fighter 2 - Ryu_97
+  - first:
+      213: 184131572383203544
+    second: Super Street Fighter 2 - Ryu_98
+  - first:
+      213: -127665569687791347
+    second: Super Street Fighter 2 - Ryu_99
+  - first:
+      213: -5503553058871728274
+    second: Super Street Fighter 2 - Ryu_100
+  - first:
+      213: -5590551717434367847
+    second: Super Street Fighter 2 - Ryu_101
+  - first:
+      213: -3955117385704898641
+    second: Super Street Fighter 2 - Ryu_102
+  - first:
+      213: -5951972334766098195
+    second: Super Street Fighter 2 - Ryu_103
+  - first:
+      213: 796979566250284303
+    second: Super Street Fighter 2 - Ryu_104
+  - first:
+      213: -2263036477810592099
+    second: Super Street Fighter 2 - Ryu_105
+  - first:
+      213: 1776686738666457844
+    second: Super Street Fighter 2 - Ryu_106
+  - first:
+      213: 1843816309558735721
+    second: Super Street Fighter 2 - Ryu_107
+  - first:
+      213: 6216832351082096633
+    second: Super Street Fighter 2 - Ryu_108
+  - first:
+      213: -1836655838325195720
+    second: Super Street Fighter 2 - Ryu_109
+  - first:
+      213: -4998423941984441311
+    second: Super Street Fighter 2 - Ryu_110
+  - first:
+      213: 1558883009258834151
+    second: Super Street Fighter 2 - Ryu_111
+  - first:
+      213: -4755062456238166947
+    second: Super Street Fighter 2 - Ryu_112
+  - first:
+      213: 5267914632585092083
+    second: Super Street Fighter 2 - Ryu_113
+  - first:
+      213: 479529512479029332
+    second: Super Street Fighter 2 - Ryu_114
+  - first:
+      213: -5053674973031538499
+    second: Super Street Fighter 2 - Ryu_115
+  - first:
+      213: 4191207290216357026
+    second: Super Street Fighter 2 - Ryu_116
+  - first:
+      213: 6783876827637600930
+    second: Super Street Fighter 2 - Ryu_117
+  - first:
+      213: -3774311450466029219
+    second: Super Street Fighter 2 - Ryu_118
+  - first:
+      213: -9153572087497502322
+    second: Super Street Fighter 2 - Ryu_119
+  - first:
+      213: 5316391846386473917
+    second: Super Street Fighter 2 - Ryu_120
+  - first:
+      213: -7914054318657483033
+    second: Super Street Fighter 2 - Ryu_121
+  - first:
+      213: -2932684093675190712
+    second: Super Street Fighter 2 - Ryu_122
+  - first:
+      213: -8427715693478704826
+    second: Super Street Fighter 2 - Ryu_123
+  - first:
+      213: 7712663922363899138
+    second: Super Street Fighter 2 - Ryu_124
+  - first:
+      213: 4511642854933475558
+    second: Super Street Fighter 2 - Ryu_125
+  - first:
+      213: 4410147727179134752
+    second: Super Street Fighter 2 - Ryu_126
+  - first:
+      213: 3676345755322284766
+    second: Super Street Fighter 2 - Ryu_127
+  - first:
+      213: 8200225697221943822
+    second: Super Street Fighter 2 - Ryu_128
+  - first:
+      213: 3967422706889786001
+    second: Super Street Fighter 2 - Ryu_129
+  - first:
+      213: 3326516060322153994
+    second: Super Street Fighter 2 - Ryu_130
+  - first:
+      213: 2569756512131066361
+    second: Super Street Fighter 2 - Ryu_131
+  - first:
+      213: -2717323352987030396
+    second: Super Street Fighter 2 - Ryu_132
+  - first:
+      213: 5555206559750172805
+    second: Super Street Fighter 2 - Ryu_133
+  - first:
+      213: -7608542846222523439
+    second: Super Street Fighter 2 - Ryu_134
+  - first:
+      213: -1282597268927445554
+    second: Super Street Fighter 2 - Ryu_135
+  - first:
+      213: 8393522316869220084
+    second: Super Street Fighter 2 - Ryu_136
+  - first:
+      213: -6347368822626939562
+    second: Super Street Fighter 2 - Ryu_137
+  - first:
+      213: -6162167522017848560
+    second: Super Street Fighter 2 - Ryu_138
+  - first:
+      213: 3368861353143289999
+    second: Super Street Fighter 2 - Ryu_139
+  - first:
+      213: 4257792887468047089
+    second: Super Street Fighter 2 - Ryu_140
+  - first:
+      213: 5757096784539562868
+    second: Super Street Fighter 2 - Ryu_141
+  - first:
+      213: -7392009982345439213
+    second: Super Street Fighter 2 - Ryu_142
+  - first:
+      213: -1005647475813493551
+    second: Super Street Fighter 2 - Ryu_143
+  - first:
+      213: 7980535834298749700
+    second: Super Street Fighter 2 - Ryu_144
+  - first:
+      213: -7568875877668698956
+    second: Super Street Fighter 2 - Ryu_145
+  - first:
+      213: 6339768695809940568
+    second: Super Street Fighter 2 - Ryu_146
+  - first:
+      213: -2667866044131037101
+    second: Super Street Fighter 2 - Ryu_147
+  - first:
+      213: -8819093079870699059
+    second: Super Street Fighter 2 - Ryu_148
+  - first:
+      213: 4949794443368013465
+    second: Super Street Fighter 2 - Ryu_149
+  - first:
+      213: -2330730560362609748
+    second: Super Street Fighter 2 - Ryu_150
+  - first:
+      213: 8131314263215553098
+    second: Super Street Fighter 2 - Ryu_151
+  - first:
+      213: -6218371790928153078
+    second: Super Street Fighter 2 - Ryu_152
+  - first:
+      213: -2169974840565169079
+    second: Super Street Fighter 2 - Ryu_153
+  - first:
+      213: -2350411375415403485
+    second: Super Street Fighter 2 - Ryu_154
+  - first:
+      213: -5704799839586990281
+    second: Super Street Fighter 2 - Ryu_155
+  - first:
+      213: -5237419901624598413
+    second: Super Street Fighter 2 - Ryu_156
+  - first:
+      213: -7599928261375903360
+    second: Super Street Fighter 2 - Ryu_157
+  - first:
+      213: -7821684860110469463
+    second: Super Street Fighter 2 - Ryu_158
+  - first:
+      213: 7476810820297309996
+    second: Super Street Fighter 2 - Ryu_159
+  - first:
+      213: -4137999331116418564
+    second: Super Street Fighter 2 - Ryu_160
+  - first:
+      213: -6443150146498656505
+    second: Super Street Fighter 2 - Ryu_161
+  - first:
+      213: -6196630511369327058
+    second: Super Street Fighter 2 - Ryu_162
+  - first:
+      213: -4535918239953371451
+    second: Super Street Fighter 2 - Ryu_163
+  - first:
+      213: -979681572492968430
+    second: Super Street Fighter 2 - Ryu_164
+  - first:
+      213: 6457266345992926954
+    second: Super Street Fighter 2 - Ryu_165
+  - first:
+      213: 5095771542990204411
+    second: Super Street Fighter 2 - Ryu_166
+  - first:
+      213: 1263529919531285429
+    second: Super Street Fighter 2 - Ryu_167
+  - first:
+      213: 5302764868886568749
+    second: Super Street Fighter 2 - Ryu_168
+  - first:
+      213: -5575302183622809600
+    second: Super Street Fighter 2 - Ryu_169
+  - first:
+      213: 3421854437751806617
+    second: Super Street Fighter 2 - Ryu_170
+  - first:
+      213: -6123470988677349075
+    second: Super Street Fighter 2 - Ryu_171
+  - first:
+      213: 2395137321366248083
+    second: Super Street Fighter 2 - Ryu_172
+  - first:
+      213: 4955691932182939349
+    second: Super Street Fighter 2 - Ryu_173
+  - first:
+      213: 5733635460995752996
+    second: Super Street Fighter 2 - Ryu_174
+  - first:
+      213: 5763307053773368837
+    second: Super Street Fighter 2 - Ryu_175
+  - first:
+      213: 6585872187336613398
+    second: Super Street Fighter 2 - Ryu_176
+  - first:
+      213: -131307246650745755
+    second: Super Street Fighter 2 - Ryu_177
+  - first:
+      213: -5633782251321727376
+    second: Super Street Fighter 2 - Ryu_178
+  - first:
+      213: 8382759459259672111
+    second: Super Street Fighter 2 - Ryu_179
+  - first:
+      213: 3589388265291543671
+    second: Super Street Fighter 2 - Ryu_180
+  - first:
+      213: -1143195401965111573
+    second: Super Street Fighter 2 - Ryu_181
+  - first:
+      213: -8207861354164214110
+    second: Super Street Fighter 2 - Ryu_182
+  - first:
+      213: -7277161876230816351
+    second: Super Street Fighter 2 - Ryu_183
+  - first:
+      213: 3204372679476782047
+    second: Super Street Fighter 2 - Ryu_184
+  - first:
+      213: 8110448077150257716
+    second: Super Street Fighter 2 - Ryu_185
+  - first:
+      213: 4750236689782196502
+    second: Super Street Fighter 2 - Ryu_186
+  - first:
+      213: 6906887773086139211
+    second: Super Street Fighter 2 - Ryu_187
+  - first:
+      213: 718560655316273680
+    second: Super Street Fighter 2 - Ryu_188
+  - first:
+      213: 1760454979582445174
+    second: Super Street Fighter 2 - Ryu_189
+  - first:
+      213: -5627174501026423006
+    second: Super Street Fighter 2 - Ryu_190
+  - first:
+      213: 5950281220792465848
+    second: Super Street Fighter 2 - Ryu_191
+  - first:
+      213: -2625661141990058912
+    second: Super Street Fighter 2 - Ryu_192
+  - first:
+      213: 8489239970312137546
+    second: Super Street Fighter 2 - Ryu_193
+  - first:
+      213: -7902007997156484173
+    second: Super Street Fighter 2 - Ryu_194
+  - first:
+      213: 1082101141911205334
+    second: Super Street Fighter 2 - Ryu_195
+  - first:
+      213: 287303937991469131
+    second: Super Street Fighter 2 - Ryu_196
+  - first:
+      213: 3220156389689053497
+    second: Super Street Fighter 2 - Ryu_197
+  - first:
+      213: -3911252458021224247
+    second: Super Street Fighter 2 - Ryu_198
+  - first:
+      213: -6664063086099265676
+    second: Super Street Fighter 2 - Ryu_199
+  - first:
+      213: -5919363636308186435
+    second: Super Street Fighter 2 - Ryu_200
+  - first:
+      213: 4825009778815809646
+    second: Super Street Fighter 2 - Ryu_201
+  - first:
+      213: 2753094580118492199
+    second: Super Street Fighter 2 - Ryu_202
+  - first:
+      213: 1093303795297961586
+    second: Super Street Fighter 2 - Ryu_203
+  - first:
+      213: -2004976192594081975
+    second: Super Street Fighter 2 - Ryu_204
+  - first:
+      213: -1624229261778560231
+    second: Super Street Fighter 2 - Ryu_205
+  - first:
+      213: 2857286968039466366
+    second: Super Street Fighter 2 - Ryu_206
+  - first:
+      213: -3098395286458936735
+    second: Super Street Fighter 2 - Ryu_207
+  - first:
+      213: 4848455616911530627
+    second: Super Street Fighter 2 - Ryu_208
+  - first:
+      213: 648810618957250878
+    second: Super Street Fighter 2 - Ryu_209
+  - first:
+      213: 6176970251939959905
+    second: Super Street Fighter 2 - Ryu_210
+  - first:
+      213: 5935577870608636005
+    second: Super Street Fighter 2 - Ryu_211
+  - first:
+      213: 5131446310660232440
+    second: Super Street Fighter 2 - Ryu_212
+  - first:
+      213: 3093362241183105691
+    second: Super Street Fighter 2 - Ryu_213
+  - first:
+      213: 4130738692601096171
+    second: Super Street Fighter 2 - Ryu_214
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 869
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accb081746c05c270800000000000000
+      internalID: 8270029916276309194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 869
+        width: 43
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cddde35e2dbef830800000000000000
+      internalID: 4106927916882714053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 869
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ee4bda0372fcb20800000000000000
+      internalID: 3156784953836236310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_3
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 869
+        width: 43
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b07aab1ea674240800000000000000
+      internalID: 4775903447581395834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_4
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 869
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf61a3b2748e3ec0800000000000000
+      internalID: -3585282625165496398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 869
+        width: 43
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49b9b27a01eb5960800000000000000
+      internalID: 7591909031853799759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 869
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533525d766da24c80800000000000000
+      internalID: -8339912904235920587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 869
+        width: 43
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20865a41e61cada0800000000000000
+      internalID: -5932341452283150292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_8
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 869
+        width: 43
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bbedd6c24df2a110800000000000000
+      internalID: 1270856508118002614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 869
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85811547f8756a260800000000000000
+      internalID: 7108465335494318168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 869
+        width: 33
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49051fd502b8d70e0800000000000000
+      internalID: -2270505665993551724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 873
+        width: 29
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80ce85f659e862b0800000000000000
+      internalID: -5590962377684238198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_12
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 882
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af8228e4ff8e26a0800000000000000
+      internalID: -6472077332455452760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_13
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 873
+        width: 29
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ddb889240251370800000000000000
+      internalID: 8292569759271869788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_14
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 869
+        width: 33
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05830f7503346f7a0800000000000000
+      internalID: -6343809150191912880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_15
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 869
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8197ede6c35c77c0800000000000000
+      internalID: -4072287849189764725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_16
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 869
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035ff4a82d7c665d0800000000000000
+      internalID: -3069546388928858832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_17
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 869
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850175f4361273230800000000000000
+      internalID: 3618397536032067672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_18
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 891
+        width: 61
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc77950e78efd9f0800000000000000
+      internalID: -441378610501681957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_19
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 877
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef2d3554776e22f0800000000000000
+      internalID: -995744718258360342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_20
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 893
+        width: 72
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440540c1ea41c4a20800000000000000
+      internalID: 3047833785849892932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_21
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 869
+        width: 43
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee50ced729210100800000000000000
+      internalID: 72384320232251116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_22
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 869
+        width: 39
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760109d60546fbdf0800000000000000
+      internalID: -162300764963729305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_23
+      rect:
+        serializedVersion: 2
+        x: 1113
+        y: 869
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61be38e364786910800000000000000
+      internalID: 1830841220973113709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_24
+      rect:
+        serializedVersion: 2
+        x: 1160
+        y: 869
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcb196a40cee6b40800000000000000
+      internalID: 5435541305001360570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_25
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 869
+        width: 43
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e138ffab208dae80800000000000000
+      internalID: -8165729624228613662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_26
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 869
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba1f84faa54633f0800000000000000
+      internalID: -921472473200911693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 746
+        width: 109
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b041dff03704b390800000000000000
+      internalID: -7803604347294498633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_28
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc29c29eb0738dd0800000000000000
+      internalID: -2485018605569626923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_29
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 746
+        width: 44
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1696a96893274e800800000000000000
+      internalID: 640762638390421857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_30
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d848b2834a8c91c50800000000000000
+      internalID: 6636556133549704333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_31
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 753
+        width: 51
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0a0f6b3acc82610800000000000000
+      internalID: 1596751071423799511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_32
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 753
+        width: 72
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0dee27f04f96d00800000000000000
+      internalID: 966571942237622503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_33
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 753
+        width: 51
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8685c7f01e04e5940800000000000000
+      internalID: 5286734347951167592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_34
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a78c32b62ffeff40800000000000000
+      internalID: 5764325114744965030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_35
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14eacb681c748b150800000000000000
+      internalID: 5888535409301696065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_36
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 753
+        width: 47
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ca2e5625a739d0800000000000000
+      internalID: -2794583459552901283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141f765c22164b70800000000000000
+      internalID: 8882807296673911824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_38
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9304306609d07ab80800000000000000
+      internalID: -8383717267488948167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_39
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 753
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c720082e680302740800000000000000
+      internalID: 5125149731831415420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 753
+        width: 61
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9989d284a80f340800000000000000
+      internalID: 4895564837558983115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_41
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 753
+        width: 47
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870cdb40462ed0770800000000000000
+      internalID: 8578761784414814328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_42
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 753
+        width: 61
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77dfabd62e841650800000000000000
+      internalID: 6202738884341651323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_43
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 753
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68860a65826eebee0800000000000000
+      internalID: -1243303386181244794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_44
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d71491fadfdb6e00800000000000000
+      internalID: 1039170270487910355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_45
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 753
+        width: 41
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92ee12953f31fe0800000000000000
+      internalID: -1219363509940377152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_46
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 753
+        width: 60
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c00ebccde3224a20800000000000000
+      internalID: 3045035802305102016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_47
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 753
+        width: 57
+        height: 103
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65773b9889a44f1f0800000000000000
+      internalID: -1012101997245794474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_48
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 753
+        width: 60
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c05089fdc9573f0800000000000000
+      internalID: -903643666075808726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_49
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 753
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0842853d7b12780800000000000000
+      internalID: -8709478086013058866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_50
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 622
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543ebd77ca69433b0800000000000000
+      internalID: -5533632374642056379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_51
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 622
+        width: 67
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c3156105f34c1a50800000000000000
+      internalID: 6493139482330862534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_52
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 622
+        width: 49
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1386e4a927f8760800000000000000
+      internalID: 7462309114642182574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_53
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 622
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9415e22a438661380800000000000000
+      internalID: -9000892229984825015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_54
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 622
+        width: 55
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83563be4298823920800000000000000
+      internalID: 2968585266357560632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_55
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 622
+        width: 69
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd1f0e7f536c500800000000000000
+      internalID: 416079354325490890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_56
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 622
+        width: 58
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4596569542669fa00800000000000000
+      internalID: 790775515884906836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_57
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 622
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907cf8a35244f1840800000000000000
+      internalID: 5196947421695821577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 622
+        width: 47
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e19a3bc28048a0800000000000000
+      internalID: -6322910067455563575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_59
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 622
+        width: 71
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741e515e08e2a3270800000000000000
+      internalID: 8230942400107110727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_60
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 622
+        width: 47
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9128a265cc5430bd0800000000000000
+      internalID: -2665209810551930343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_61
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 622
+        width: 50
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281479681fab4c1f0800000000000000
+      internalID: -1025489268625686142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_62
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 622
+        width: 50
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb8e9898b7fddaac0800000000000000
+      internalID: -3842169185395676994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_63
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 622
+        width: 55
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c377f64fb8557ca50800000000000000
+      internalID: 6541291043368695612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_64
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 622
+        width: 50
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c64f6d363c80bcf0800000000000000
+      internalID: -238536615663810876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_65
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 622
+        width: 50
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939dcfbf195ad950800000000000000
+      internalID: 6474585407195288470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_66
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 622
+        width: 47
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c902eac1565ddb5d0800000000000000
+      internalID: -3045043142783000420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_67
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 622
+        width: 79
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9800c487236c70d80800000000000000
+      internalID: -8284435069455826807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_68
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 622
+        width: 53
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 672fa5ead718210e0800000000000000
+      internalID: -2300634082836811146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_69
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 622
+        width: 79
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3748eb46cff6370800000000000000
+      internalID: 8318144546399876063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_70
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 622
+        width: 47
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89211caa32d41120800000000000000
+      internalID: 2383761252222577039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_71
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 494
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ff29c5c6617ab30800000000000000
+      internalID: 4298429024013844320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_72
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 494
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ba64956b9cabd0800000000000000
+      internalID: -2617546422825077496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 494
+        width: 47
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8d34aa9b8eac30800000000000000
+      internalID: 4372585784520052429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_74
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 494
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86da52e0618af5950800000000000000
+      internalID: 6440050804843195752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_75
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 494
+        width: 61
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50070ca39a939440800000000000000
+      internalID: 4941463175192576093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_76
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 494
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e38ba544081a3ca90800000000000000
+      internalID: -7294809399135389634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_77
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 494
+        width: 45
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cfb1731598fec30800000000000000
+      internalID: 4390879143619460158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_78
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 494
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d955fc41813125900800000000000000
+      internalID: 671620288580900253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_79
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 494
+        width: 49
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e82299672ef26a60800000000000000
+      internalID: 7665968960966371552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_80
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 494
+        width: 44
+        height: 112
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f64148e9d4670e0800000000000000
+      internalID: -2272543618745733266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_81
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 494
+        width: 49
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0055153efc80a0800000000000000
+      internalID: -6877843026957300663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_82
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 494
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aa119d231cbd820800000000000000
+      internalID: 2944159205551090309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_83
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 494
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffab289b4e4ee50a0800000000000000
+      internalID: -6890818708814251265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_84
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 494
+        width: 71
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e652bbc3b879e20800000000000000
+      internalID: 3357305140182085261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_85
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 494
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4150ff8d488a770800000000000000
+      internalID: 8622287554127140020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_86
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 494
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab4826997f6e4810800000000000000
+      internalID: 1751459873094650793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_87
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 494
+        width: 89
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f916bc813eb0e90800000000000000
+      internalID: -7058298295342227626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_88
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 494
+        width: 49
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6657d30d25b7a5910800000000000000
+      internalID: 1826908194463380838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_89
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 494
+        width: 47
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47889e97727dd79a0800000000000000
+      internalID: -6233589744661854092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_90
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 494
+        width: 70
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724f66131ed3d1680800000000000000
+      internalID: -8782795660896832473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_91
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 494
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8edb1a3cbf810980800000000000000
+      internalID: -8574414176945185140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_92
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 494
+        width: 47
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efb767dcf087afd0800000000000000
+      internalID: -2330752458706927642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_93
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 494
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8905870e6f63f4a0800000000000000
+      internalID: -6560777713785435761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_94
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 354
+        width: 40
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31255cbf49e6c35f0800000000000000
+      internalID: -775623449656339949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_95
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 361
+        width: 51
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f0587590a359370800000000000000
+      internalID: 8328626897689055080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_96
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 354
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a90ec98f7444c90800000000000000
+      internalID: -7186539972267042280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_97
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 354
+        width: 45
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e481d1c6b033b80800000000000000
+      internalID: -8416370719652819438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_98
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 361
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d0c5d380ba2e8200800000000000000
+      internalID: 184131572383203544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_99
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 354
+        width: 32
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0916bc37d07a3ef0800000000000000
+      internalID: -127665569687791347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_100
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 354
+        width: 53
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67af6be6a37f93b0800000000000000
+      internalID: -5503553058871728274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_101
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 354
+        width: 34
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990efdf35de5a62b0800000000000000
+      internalID: -5590551717434367847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_102
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 354
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf761c51b99c19c0800000000000000
+      internalID: -3955117385704898641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_103
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 361
+        width: 39
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8705942b8566da0800000000000000
+      internalID: -5951972334766098195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_104
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 354
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05d79361b07f0b00800000000000000
+      internalID: 796979566250284303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_105
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 360
+        width: 63
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96395240541890e0800000000000000
+      internalID: -2263036477810592099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_106
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 354
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa8c5fec2f08a810800000000000000
+      internalID: 1776686738666457844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_107
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 354
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963f1522a2d869910800000000000000
+      internalID: 1843816309558735721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_108
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 354
+        width: 45
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f7a76ac510a64650800000000000000
+      internalID: 6216832351082096633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_109
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 354
+        width: 50
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83cbafdfe33e286e0800000000000000
+      internalID: -1836655838325195720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_110
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 354
+        width: 38
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ca53558e702aab0800000000000000
+      internalID: -4998423941984441311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_111
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 354
+        width: 31
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8c34d66d342a510800000000000000
+      internalID: 1558883009258834151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_112
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 354
+        width: 28
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ca023b3ef920eb0800000000000000
+      internalID: -4755062456238166947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_113
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 354
+        width: 45
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb115e92746b1940800000000000000
+      internalID: 5267914632585092083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_114
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 354
+        width: 40
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458f0aa0d81a7a600800000000000000
+      internalID: 479529512479029332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_115
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 392
+        width: 32
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db06c26336dbdd9b0800000000000000
+      internalID: -5053674973031538499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_116
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 387
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac9f5113d82a2a30800000000000000
+      internalID: 4191207290216357026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_117
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 389
+        width: 34
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2d75f380c252e50800000000000000
+      internalID: 6783876827637600930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_118
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 392
+        width: 55
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d517843abb3fe9bc0800000000000000
+      internalID: -3774311450466029219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_119
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 391
+        width: 33
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d7c22faaf7f080800000000000000
+      internalID: -9153572087497502322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_120
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 384
+        width: 34
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb16a2873e97c940800000000000000
+      internalID: 5316391846386473917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_121
+      rect:
+        serializedVersion: 2
+        x: 1337
+        y: 354
+        width: 29
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee46431781ab2290800000000000000
+      internalID: -7914054318657483033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_122
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 354
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8464d06da530d47d0800000000000000
+      internalID: -2932684093675190712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_123
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 354
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649873e8a3dba0b80800000000000000
+      internalID: -8427715693478704826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_124
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 354
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d987459f2e80b60800000000000000
+      internalID: 7712663922363899138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_125
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 354
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e03db9d5439c9e30800000000000000
+      internalID: 4511642854933475558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_126
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 354
+        width: 49
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027328dedfdf33d30800000000000000
+      internalID: 4410147727179134752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_127
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 354
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edaff718cf0050330800000000000000
+      internalID: 3676345755322284766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_128
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 354
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02a1f033dd0dc170800000000000000
+      internalID: 8200225697221943822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_129
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 250
+        width: 51
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1920cfd7eed1f0730800000000000000
+      internalID: 3967422706889786001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_130
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 250
+        width: 66
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0642237bb82a2e20800000000000000
+      internalID: 3326516060322153994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_131
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 250
+        width: 66
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9a1d0ceeb99a320800000000000000
+      internalID: 2569756512131066361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_132
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 250
+        width: 91
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ca555bec02a4ad0800000000000000
+      internalID: -2717323352987030396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_133
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 250
+        width: 70
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58034dfeeee081d40800000000000000
+      internalID: 5555206559750172805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_134
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 278
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d32198d796096690800000000000000
+      internalID: -7608542846222523439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_135
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 37
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec581b3549c433ee0800000000000000
+      internalID: -1282597268927445554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_136
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 298
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6bd4f8318cb7470800000000000000
+      internalID: 8393522316869220084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_137
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 305
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d8ee48fad99e7a0800000000000000
+      internalID: -6347368822626939562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_138
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 303
+        width: 10
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0135dab89459b7aa0800000000000000
+      internalID: -6162167522017848560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_139
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 298
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88c5ab3d8990ce20800000000000000
+      internalID: 3368861353143289999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_140
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 298
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fab7b88218b61b30800000000000000
+      internalID: 4257792887468047089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_141
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 298
+        width: 36
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473360ce50155ef40800000000000000
+      internalID: 5757096784539562868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_142
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 297
+        width: 23
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318982ae51e4a6990800000000000000
+      internalID: -7392009982345439213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_143
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 289
+        width: 22
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d45edae2f83b02f0800000000000000
+      internalID: -1005647475813493551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_144
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 287
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40317a00f0f80ce60800000000000000
+      internalID: 7980535834298749700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_145
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 277
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4c88aad73f5f690800000000000000
+      internalID: -7568875877668698956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_146
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 279
+        width: 43
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c94ef0a026bf750800000000000000
+      internalID: 6339768695809940568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_147
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 250
+        width: 49
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3503e33c7f5d9fad0800000000000000
+      internalID: -2667866044131037101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_148
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 250
+        width: 54
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98335c1994c9580800000000000000
+      internalID: -8819093079870699059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_149
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 250
+        width: 43
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e172432d331b440800000000000000
+      internalID: 4949794443368013465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_150
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 250
+        width: 52
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3807277e497afd0800000000000000
+      internalID: -2330730560362609748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_151
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 250
+        width: 49
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ab708ad3b38d070800000000000000
+      internalID: 8131314263215553098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_152
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 250
+        width: 50
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06fa607dc7e3b9a0800000000000000
+      internalID: -6218371790928153078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_153
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 250
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94404982163b2e1e0800000000000000
+      internalID: -2169974840565169079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_154
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 250
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32cd35c9e49a16fd0800000000000000
+      internalID: -2350411375415403485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_155
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 261
+        width: 36
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73746be65ca74d0b0800000000000000
+      internalID: -5704799839586990281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_156
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 251
+        width: 25
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370ca183952f057b0800000000000000
+      internalID: -5237419901624598413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_157
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 261
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089bc3e2381a78690800000000000000
+      internalID: -7599928261375903360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_158
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 264
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a680109f0bc37390800000000000000
+      internalID: -7821684860110469463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_159
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 261
+        width: 33
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f3e94c3d7f2c760800000000000000
+      internalID: 7476810820297309996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_160
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 268
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9700c488fd296c0800000000000000
+      internalID: -4137999331116418564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_161
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 250
+        width: 55
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707017b34155596a0800000000000000
+      internalID: -6443150146498656505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_162
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 250
+        width: 68
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eeb7d8165210aa0800000000000000
+      internalID: -6196630511369327058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_163
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 250
+        width: 62
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce3d51a46e2d01c0800000000000000
+      internalID: -4535918239953371451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_164
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 250
+        width: 45
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e7f86ecc87762f0800000000000000
+      internalID: -979681572492968430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_165
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 132
+        width: 43
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae63ef49781dc9950800000000000000
+      internalID: 6457266345992926954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_166
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 132
+        width: 47
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfda9744831d7b640800000000000000
+      internalID: 5095771542990204411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_167
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 132
+        width: 49
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb7db074c5f88110800000000000000
+      internalID: 1263529919531285429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_168
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 132
+        width: 43
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f97619d84379940800000000000000
+      internalID: 5302764868886568749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_169
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 132
+        width: 48
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e3b5043c80a2b0800000000000000
+      internalID: -5575302183622809600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_170
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 132
+        width: 52
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a5a4b3b7edc7f20800000000000000
+      internalID: 3421854437751806617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_171
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 132
+        width: 58
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d210a7f449f050ba0800000000000000
+      internalID: -6123470988677349075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_172
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 132
+        width: 43
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ad05c24bc3d3120800000000000000
+      internalID: 2395137321366248083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_173
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 132
+        width: 45
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d688025e8726c440800000000000000
+      internalID: 4955691932182939349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_174
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 137
+        width: 47
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4242c3cd217f19f40800000000000000
+      internalID: 5733635460995752996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_175
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 137
+        width: 43
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e2aa7ea316bff40800000000000000
+      internalID: 5763307053773368837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_176
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 143
+        width: 72
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ed2566cd7b56b50800000000000000
+      internalID: 6585872187336613398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_177
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 132
+        width: 74
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c92fe31c08d2ef0800000000000000
+      internalID: -131307246650745755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_178
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 132
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076611834e8c0d1b0800000000000000
+      internalID: -5633782251321727376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_179
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 132
+        width: 52
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26e7be705b855470800000000000000
+      internalID: 8382759459259672111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_180
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 142
+        width: 47
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77478a12c9110d130800000000000000
+      internalID: 3589388265291543671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_181
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 159
+        width: 31
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6720db6dd8220f0800000000000000
+      internalID: -1143195401965111573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_182
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 132
+        width: 51
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a263e591d71e80800000000000000
+      internalID: -8207861354164214110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_183
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 132
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad3f3264d3520b90800000000000000
+      internalID: -7277161876230816351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_184
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 132
+        width: 43
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd32e2879f7387c20800000000000000
+      internalID: 3204372679476782047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_185
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 128
+        width: 45
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4328acf1e891e8070800000000000000
+      internalID: 8110448077150257716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_186
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 137
+        width: 72
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ce7df91b3ce140800000000000000
+      internalID: 4750236689782196502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_187
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 132
+        width: 74
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c94ad5d13adf50800000000000000
+      internalID: 6906887773086139211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_188
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 137
+        width: 72
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ac2b1eb17d8f900800000000000000
+      internalID: 718560655316273680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_189
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 132
+        width: 74
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67644150a746e6810800000000000000
+      internalID: 1760454979582445174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_190
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 132
+        width: 43
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f1f29fa9248e1b0800000000000000
+      internalID: -5627174501026423006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_191
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 132
+        width: 43
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9330f8e35a39250800000000000000
+      internalID: 5950281220792465848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_192
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 132
+        width: 41
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064d22b4a17cf8bd0800000000000000
+      internalID: -2625661141990058912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_193
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ba08b66c6dfc570800000000000000
+      internalID: 8489239970312137546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_194
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 6
+        width: 43
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb113dd79d665290800000000000000
+      internalID: -7902007997156484173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_195
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 6
+        width: 43
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d579ae5145640f00800000000000000
+      internalID: 1082101141911205334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_196
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 43
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b486d8ec865bcf300800000000000000
+      internalID: 287303937991469131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_197
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 6
+        width: 43
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931de90ec2b40bc20800000000000000
+      internalID: 3220156389689053497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_198
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 6
+        width: 43
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c085c4bc9078b9c0800000000000000
+      internalID: -3911252458021224247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_199
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 6
+        width: 43
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47782405eed7483a0800000000000000
+      internalID: -6664063086099265676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_200
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 6
+        width: 43
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba6c7982223adda0800000000000000
+      internalID: -5919363636308186435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_201
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6
+        width: 43
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e683a1074d0e5f240800000000000000
+      internalID: 4825009778815809646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_202
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 0
+        width: 48
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72414012fe4f43620800000000000000
+      internalID: 2753094580118492199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_203
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 6
+        width: 43
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276425e52023c2f00800000000000000
+      internalID: 1093303795297961586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_204
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 6
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947805196c4ec24e0800000000000000
+      internalID: -2004976192594081975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_205
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 6
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91bd4e987149579e0800000000000000
+      internalID: -1624229261778560231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_206
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 6
+        width: 44
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75685fdb5f17a720800000000000000
+      internalID: 2857286968039466366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_207
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 6
+        width: 43
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162ded827e94005d0800000000000000
+      internalID: -3098395286458936735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_208
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 6
+        width: 44
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a524302bc294340800000000000000
+      internalID: 4848455616911530627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_209
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 6
+        width: 44
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31c27502d9010900800000000000000
+      internalID: 648810618957250878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_210
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 47
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164590797b109b550800000000000000
+      internalID: 6176970251939959905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_211
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 6
+        width: 71
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5681c4210a86f5250800000000000000
+      internalID: 5935577870608636005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_212
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 6
+        width: 71
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f454e26b3f863740800000000000000
+      internalID: 5131446310660232440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_213
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 6
+        width: 71
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92435ba194ddea20800000000000000
+      internalID: 3093362241183105691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Super Street Fighter 2 - Ryu_214
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 31
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7237094f4535930800000000000000
+      internalID: 4130738692601096171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0151a3cb8873404fb45717124ed6d3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

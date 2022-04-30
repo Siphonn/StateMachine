@@ -1,0 +1,4500 @@
+fileFormatVersion: 2
+guid: 4545a408ded1fa84b839986d4df7dd8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6793854858210705382
+    second: Streets of Rage 3 - Blaze2_0
+  - first:
+      213: 8858865069153895538
+    second: Streets of Rage 3 - Blaze2_1
+  - first:
+      213: 7083060479740544565
+    second: Streets of Rage 3 - Blaze2_2
+  - first:
+      213: 2887127031545526346
+    second: Streets of Rage 3 - Blaze2_3
+  - first:
+      213: -8126993508967242844
+    second: Streets of Rage 3 - Blaze2_4
+  - first:
+      213: -6037940380339222258
+    second: Streets of Rage 3 - Blaze2_5
+  - first:
+      213: -2771772958475215714
+    second: Streets of Rage 3 - Blaze2_6
+  - first:
+      213: -3705312997987892684
+    second: Streets of Rage 3 - Blaze2_7
+  - first:
+      213: -1992073943638849254
+    second: Streets of Rage 3 - Blaze2_8
+  - first:
+      213: -3321641803260908981
+    second: Streets of Rage 3 - Blaze2_9
+  - first:
+      213: -3311224098864222633
+    second: Streets of Rage 3 - Blaze2_10
+  - first:
+      213: -5593707846588596847
+    second: Streets of Rage 3 - Blaze2_11
+  - first:
+      213: -2981506770209062828
+    second: Streets of Rage 3 - Blaze2_12
+  - first:
+      213: -406516259343123864
+    second: Streets of Rage 3 - Blaze2_13
+  - first:
+      213: -6089337858336237509
+    second: Streets of Rage 3 - Blaze2_14
+  - first:
+      213: 6740120235618847548
+    second: Streets of Rage 3 - Blaze2_15
+  - first:
+      213: -4081382177389272649
+    second: Streets of Rage 3 - Blaze2_16
+  - first:
+      213: 5089277643381844013
+    second: Streets of Rage 3 - Blaze2_17
+  - first:
+      213: 7197801287431422542
+    second: Streets of Rage 3 - Blaze2_18
+  - first:
+      213: -93651345448522272
+    second: Streets of Rage 3 - Blaze2_19
+  - first:
+      213: 4268738966972302689
+    second: Streets of Rage 3 - Blaze2_20
+  - first:
+      213: 2148158063355697609
+    second: Streets of Rage 3 - Blaze2_21
+  - first:
+      213: 5291118059242048288
+    second: Streets of Rage 3 - Blaze2_22
+  - first:
+      213: 7633034235432156284
+    second: Streets of Rage 3 - Blaze2_23
+  - first:
+      213: 2574849764541780776
+    second: Streets of Rage 3 - Blaze2_24
+  - first:
+      213: 6422818712600278328
+    second: Streets of Rage 3 - Blaze2_25
+  - first:
+      213: -8414371596848528053
+    second: Streets of Rage 3 - Blaze2_26
+  - first:
+      213: 5992029097114995638
+    second: Streets of Rage 3 - Blaze2_27
+  - first:
+      213: 1505705317149536543
+    second: Streets of Rage 3 - Blaze2_28
+  - first:
+      213: 5782410423808899356
+    second: Streets of Rage 3 - Blaze2_29
+  - first:
+      213: -4382965834405108834
+    second: Streets of Rage 3 - Blaze2_30
+  - first:
+      213: 8615160857263782504
+    second: Streets of Rage 3 - Blaze2_31
+  - first:
+      213: 6000460778927967380
+    second: Streets of Rage 3 - Blaze2_32
+  - first:
+      213: -3971921940388404859
+    second: Streets of Rage 3 - Blaze2_33
+  - first:
+      213: -4202678340128788968
+    second: Streets of Rage 3 - Blaze2_34
+  - first:
+      213: 6117004939499447974
+    second: Streets of Rage 3 - Blaze2_35
+  - first:
+      213: 1972965922815085572
+    second: Streets of Rage 3 - Blaze2_36
+  - first:
+      213: 6887424147182472675
+    second: Streets of Rage 3 - Blaze2_37
+  - first:
+      213: 6298176736875578075
+    second: Streets of Rage 3 - Blaze2_38
+  - first:
+      213: 8013668504944264977
+    second: Streets of Rage 3 - Blaze2_39
+  - first:
+      213: -8828178119982806279
+    second: Streets of Rage 3 - Blaze2_40
+  - first:
+      213: -9028529011350605243
+    second: Streets of Rage 3 - Blaze2_41
+  - first:
+      213: -4100452803124165392
+    second: Streets of Rage 3 - Blaze2_42
+  - first:
+      213: 4047101028826064478
+    second: Streets of Rage 3 - Blaze2_43
+  - first:
+      213: 2966104251934472617
+    second: Streets of Rage 3 - Blaze2_44
+  - first:
+      213: -3010062369457968636
+    second: Streets of Rage 3 - Blaze2_45
+  - first:
+      213: 4239060626422706161
+    second: Streets of Rage 3 - Blaze2_46
+  - first:
+      213: 2866109292393148303
+    second: Streets of Rage 3 - Blaze2_47
+  - first:
+      213: -2716473398389000320
+    second: Streets of Rage 3 - Blaze2_48
+  - first:
+      213: -6585523676253106776
+    second: Streets of Rage 3 - Blaze2_49
+  - first:
+      213: -5979608917638700989
+    second: Streets of Rage 3 - Blaze2_50
+  - first:
+      213: -6064190251644382670
+    second: Streets of Rage 3 - Blaze2_51
+  - first:
+      213: 2432279483336686389
+    second: Streets of Rage 3 - Blaze2_52
+  - first:
+      213: -3481571810431029621
+    second: Streets of Rage 3 - Blaze2_53
+  - first:
+      213: 3215002374556336669
+    second: Streets of Rage 3 - Blaze2_54
+  - first:
+      213: 788829105960517933
+    second: Streets of Rage 3 - Blaze2_55
+  - first:
+      213: 7255403912139992504
+    second: Streets of Rage 3 - Blaze2_56
+  - first:
+      213: -7421304288899823407
+    second: Streets of Rage 3 - Blaze2_57
+  - first:
+      213: -3759946988946922242
+    second: Streets of Rage 3 - Blaze2_58
+  - first:
+      213: -261485821198865527
+    second: Streets of Rage 3 - Blaze2_59
+  - first:
+      213: -4575528249122474104
+    second: Streets of Rage 3 - Blaze2_60
+  - first:
+      213: -3348535463079046361
+    second: Streets of Rage 3 - Blaze2_61
+  - first:
+      213: -3963300819260945359
+    second: Streets of Rage 3 - Blaze2_62
+  - first:
+      213: -809838688972761942
+    second: Streets of Rage 3 - Blaze2_63
+  - first:
+      213: -2769575393772325856
+    second: Streets of Rage 3 - Blaze2_64
+  - first:
+      213: 2258259639838055591
+    second: Streets of Rage 3 - Blaze2_65
+  - first:
+      213: 2010265195056418815
+    second: Streets of Rage 3 - Blaze2_66
+  - first:
+      213: 707708090049103910
+    second: Streets of Rage 3 - Blaze2_67
+  - first:
+      213: 5222205310422626019
+    second: Streets of Rage 3 - Blaze2_68
+  - first:
+      213: 1461698997215364898
+    second: Streets of Rage 3 - Blaze2_69
+  - first:
+      213: 4272428359180626621
+    second: Streets of Rage 3 - Blaze2_70
+  - first:
+      213: -9054605133546082707
+    second: Streets of Rage 3 - Blaze2_71
+  - first:
+      213: 3539257132283353952
+    second: Streets of Rage 3 - Blaze2_72
+  - first:
+      213: -7950789533101519957
+    second: Streets of Rage 3 - Blaze2_73
+  - first:
+      213: -6183684385859295394
+    second: Streets of Rage 3 - Blaze2_74
+  - first:
+      213: -7381992655420102557
+    second: Streets of Rage 3 - Blaze2_75
+  - first:
+      213: -2449658039607336375
+    second: Streets of Rage 3 - Blaze2_76
+  - first:
+      213: 4989447160738134210
+    second: Streets of Rage 3 - Blaze2_77
+  - first:
+      213: -4428500285703781346
+    second: Streets of Rage 3 - Blaze2_78
+  - first:
+      213: 6278389817712229704
+    second: Streets of Rage 3 - Blaze2_79
+  - first:
+      213: 6108069588837284278
+    second: Streets of Rage 3 - Blaze2_80
+  - first:
+      213: -3538641025593999634
+    second: Streets of Rage 3 - Blaze2_81
+  - first:
+      213: 6506427043041509904
+    second: Streets of Rage 3 - Blaze2_82
+  - first:
+      213: 8487616729904488668
+    second: Streets of Rage 3 - Blaze2_83
+  - first:
+      213: -5314096834830835060
+    second: Streets of Rage 3 - Blaze2_84
+  - first:
+      213: 7639149109948794378
+    second: Streets of Rage 3 - Blaze2_85
+  - first:
+      213: -7234092020801754870
+    second: Streets of Rage 3 - Blaze2_86
+  - first:
+      213: 195612710573790368
+    second: Streets of Rage 3 - Blaze2_87
+  - first:
+      213: -2757264444228506013
+    second: Streets of Rage 3 - Blaze2_88
+  - first:
+      213: -5091307967998775207
+    second: Streets of Rage 3 - Blaze2_89
+  - first:
+      213: 7291511382915082082
+    second: Streets of Rage 3 - Blaze2_90
+  - first:
+      213: -5124008378924711835
+    second: Streets of Rage 3 - Blaze2_91
+  - first:
+      213: 8347629093015769426
+    second: Streets of Rage 3 - Blaze2_92
+  - first:
+      213: 3274284997281611488
+    second: Streets of Rage 3 - Blaze2_93
+  - first:
+      213: 3225443023413150892
+    second: Streets of Rage 3 - Blaze2_94
+  - first:
+      213: 8355929907043144349
+    second: Streets of Rage 3 - Blaze2_95
+  - first:
+      213: 770664205180317503
+    second: Streets of Rage 3 - Blaze2_96
+  - first:
+      213: -5788738819797804728
+    second: Streets of Rage 3 - Blaze2_97
+  - first:
+      213: 4094003457979452331
+    second: Streets of Rage 3 - Blaze2_98
+  - first:
+      213: -3936158259246642228
+    second: Streets of Rage 3 - Blaze2_99
+  - first:
+      213: -3378109056849891535
+    second: Streets of Rage 3 - Blaze2_100
+  - first:
+      213: -2148469773418067362
+    second: Streets of Rage 3 - Blaze2_101
+  - first:
+      213: 1484900570771435821
+    second: Streets of Rage 3 - Blaze2_102
+  - first:
+      213: 8682363464888851253
+    second: Streets of Rage 3 - Blaze2_103
+  - first:
+      213: -8200616060591574
+    second: Streets of Rage 3 - Blaze2_104
+  - first:
+      213: -235409716918797691
+    second: Streets of Rage 3 - Blaze2_105
+  - first:
+      213: 2492977976224823002
+    second: Streets of Rage 3 - Blaze2_106
+  - first:
+      213: -67035596153585386
+    second: Streets of Rage 3 - Blaze2_107
+  - first:
+      213: -1046862011778273922
+    second: Streets of Rage 3 - Blaze2_108
+  - first:
+      213: -5499006066880079972
+    second: Streets of Rage 3 - Blaze2_109
+  - first:
+      213: -5860677239319794947
+    second: Streets of Rage 3 - Blaze2_110
+  - first:
+      213: -8666125654298152007
+    second: Streets of Rage 3 - Blaze2_111
+  - first:
+      213: -3135844019107936336
+    second: Streets of Rage 3 - Blaze2_112
+  - first:
+      213: -9090892389523422681
+    second: Streets of Rage 3 - Blaze2_113
+  - first:
+      213: 267964678554669011
+    second: Streets of Rage 3 - Blaze2_114
+  - first:
+      213: 3510417416158652785
+    second: Streets of Rage 3 - Blaze2_115
+  - first:
+      213: 3768001971247794566
+    second: Streets of Rage 3 - Blaze2_116
+  - first:
+      213: -6789298775374899161
+    second: Streets of Rage 3 - Blaze2_117
+  - first:
+      213: 6721057986541358811
+    second: Streets of Rage 3 - Blaze2_118
+  - first:
+      213: -3865788405433116284
+    second: Streets of Rage 3 - Blaze2_119
+  - first:
+      213: 5609987806782411802
+    second: Streets of Rage 3 - Blaze2_120
+  - first:
+      213: -171114026896291292
+    second: Streets of Rage 3 - Blaze2_121
+  - first:
+      213: -5432715754210929929
+    second: Streets of Rage 3 - Blaze2_122
+  - first:
+      213: 2180110935889716287
+    second: Streets of Rage 3 - Blaze2_123
+  - first:
+      213: 7691428992711016932
+    second: Streets of Rage 3 - Blaze2_124
+  - first:
+      213: -2142723283136078090
+    second: Streets of Rage 3 - Blaze2_125
+  - first:
+      213: 6949724841299555117
+    second: Streets of Rage 3 - Blaze2_126
+  - first:
+      213: -5112397342192097596
+    second: Streets of Rage 3 - Blaze2_127
+  - first:
+      213: -5400929372329107754
+    second: Streets of Rage 3 - Blaze2_128
+  - first:
+      213: -5968263986762605330
+    second: Streets of Rage 3 - Blaze2_129
+  - first:
+      213: -2836415135273206453
+    second: Streets of Rage 3 - Blaze2_130
+  - first:
+      213: -432136297401031623
+    second: Streets of Rage 3 - Blaze2_131
+  - first:
+      213: 6436166241534274531
+    second: Streets of Rage 3 - Blaze2_132
+  - first:
+      213: 5376158011415587542
+    second: Streets of Rage 3 - Blaze2_133
+  - first:
+      213: 4272630584348828486
+    second: Streets of Rage 3 - Blaze2_134
+  - first:
+      213: 5708064507078689955
+    second: Streets of Rage 3 - Blaze2_135
+  - first:
+      213: -3345064224073882187
+    second: Streets of Rage 3 - Blaze2_136
+  - first:
+      213: -3526475524328174128
+    second: Streets of Rage 3 - Blaze2_137
+  - first:
+      213: 5186315159805215281
+    second: Streets of Rage 3 - Blaze2_138
+  - first:
+      213: -1688785941171189023
+    second: Streets of Rage 3 - Blaze2_139
+  - first:
+      213: -7877508792338299334
+    second: Streets of Rage 3 - Blaze2_140
+  - first:
+      213: -3877962275890274701
+    second: Streets of Rage 3 - Blaze2_141
+  - first:
+      213: -3730794042474286039
+    second: Streets of Rage 3 - Blaze2_142
+  - first:
+      213: 5291709395904316975
+    second: Streets of Rage 3 - Blaze2_143
+  - first:
+      213: 2245928792163554751
+    second: Streets of Rage 3 - Blaze2_144
+  - first:
+      213: -1039106246767256144
+    second: Streets of Rage 3 - Blaze2_145
+  - first:
+      213: -8298124750212870158
+    second: Streets of Rage 3 - Blaze2_146
+  - first:
+      213: -2307284777642198730
+    second: Streets of Rage 3 - Blaze2_147
+  - first:
+      213: 7175140548240573222
+    second: Streets of Rage 3 - Blaze2_148
+  - first:
+      213: -6556302813073735142
+    second: Streets of Rage 3 - Blaze2_149
+  - first:
+      213: -70713755789260728
+    second: Streets of Rage 3 - Blaze2_150
+  - first:
+      213: 2813538612261680914
+    second: Streets of Rage 3 - Blaze2_151
+  - first:
+      213: 2679980477651500120
+    second: Streets of Rage 3 - Blaze2_152
+  - first:
+      213: 1608197390100563783
+    second: Streets of Rage 3 - Blaze2_153
+  - first:
+      213: -8109534529327460138
+    second: Streets of Rage 3 - Blaze2_154
+  - first:
+      213: 2031004113452014219
+    second: Streets of Rage 3 - Blaze2_155
+  - first:
+      213: -3678915002020980030
+    second: Streets of Rage 3 - Blaze2_156
+  - first:
+      213: -5314071150519289034
+    second: Streets of Rage 3 - Blaze2_157
+  - first:
+      213: -6298172387733271300
+    second: Streets of Rage 3 - Blaze2_158
+  - first:
+      213: -3031063528875697580
+    second: Streets of Rage 3 - Blaze2_159
+  - first:
+      213: 521627308459126313
+    second: Streets of Rage 3 - Blaze2_160
+  - first:
+      213: 6290067223403137996
+    second: Streets of Rage 3 - Blaze2_161
+  - first:
+      213: 5005936855084485309
+    second: Streets of Rage 3 - Blaze2_162
+  - first:
+      213: 5801316892952818537
+    second: Streets of Rage 3 - Blaze2_163
+  - first:
+      213: 6970374315776689373
+    second: Streets of Rage 3 - Blaze2_164
+  - first:
+      213: 2652329855155190854
+    second: Streets of Rage 3 - Blaze2_165
+  - first:
+      213: 2192378762254355390
+    second: Streets of Rage 3 - Blaze2_166
+  - first:
+      213: -5778937858740798564
+    second: Streets of Rage 3 - Blaze2_167
+  - first:
+      213: -7425402095890096773
+    second: Streets of Rage 3 - Blaze2_168
+  - first:
+      213: -5401011987784614870
+    second: Streets of Rage 3 - Blaze2_169
+  - first:
+      213: 5317362420091723493
+    second: Streets of Rage 3 - Blaze2_170
+  - first:
+      213: 5318945018057367709
+    second: Streets of Rage 3 - Blaze2_171
+  - first:
+      213: 8325888060968725276
+    second: Streets of Rage 3 - Blaze2_172
+  - first:
+      213: -3970844418840806591
+    second: Streets of Rage 3 - Blaze2_173
+  - first:
+      213: 8718999920257143287
+    second: Streets of Rage 3 - Blaze2_174
+  - first:
+      213: 3909377349244353422
+    second: Streets of Rage 3 - Blaze2_175
+  - first:
+      213: 2403265580736527680
+    second: Streets of Rage 3 - Blaze2_176
+  - first:
+      213: 819072563907876044
+    second: Streets of Rage 3 - Blaze2_177
+  - first:
+      213: -5581851651477127778
+    second: Streets of Rage 3 - Blaze2_178
+  - first:
+      213: -4127709881848321323
+    second: Streets of Rage 3 - Blaze2_179
+  - first:
+      213: -7949499982959241753
+    second: Streets of Rage 3 - Blaze2_180
+  - first:
+      213: 5195762809817966749
+    second: Streets of Rage 3 - Blaze2_181
+  - first:
+      213: 1978077932252648097
+    second: Streets of Rage 3 - Blaze2_182
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2055
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a100ac8700167b1a0800000000000000
+      internalID: -6793854858210705382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2055
+        width: 40
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274c80818d201fa70800000000000000
+      internalID: 8858865069153895538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_2
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2055
+        width: 41
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5360b898af51c4260800000000000000
+      internalID: 7083060479740544565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 2055
+        width: 41
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48f2b01db2211820800000000000000
+      internalID: 2887127031545526346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2055
+        width: 46
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a32a16567e173f80800000000000000
+      internalID: -8126993508967242844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2055
+        width: 43
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c4e6e63de43ca0800000000000000
+      internalID: -6037940380339222258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_6
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 2055
+        width: 42
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c1d040e2fa889d0800000000000000
+      internalID: -2771772958475215714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_7
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 2055
+        width: 41
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4324b4db575149cc0800000000000000
+      internalID: -3705312997987892684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_8
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2055
+        width: 41
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19481f7d4bba54e0800000000000000
+      internalID: -1992073943638849254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1967
+        width: 26
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4aab85f06827e1d0800000000000000
+      internalID: -3321641803260908981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1967
+        width: 31
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2c77c93b2c02d0800000000000000
+      internalID: -3311224098864222633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_11
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1967
+        width: 51
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d75caa9582f52b0800000000000000
+      internalID: -5593707846588596847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_12
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1967
+        width: 30
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4504442a36f8f96d0800000000000000
+      internalID: -2981506770209062828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_13
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1967
+        width: 31
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86abe6ead93cb5af0800000000000000
+      internalID: -406516259343123864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1967
+        width: 53
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38d7840b735e7ba0800000000000000
+      internalID: -6089337858336237509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_15
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1967
+        width: 37
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bcb73c4a7b98d50800000000000000
+      internalID: 6740120235618847548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_16
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1967
+        width: 41
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b12a14a8840c57c0800000000000000
+      internalID: -4081382177389272649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1967
+        width: 37
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28ac117d0fb0a640800000000000000
+      internalID: 5089277643381844013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_18
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1967
+        width: 49
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e420335a22ab3e360800000000000000
+      internalID: 7197801287431422542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1879
+        width: 73
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edadc5f89843bef0800000000000000
+      internalID: -93651345448522272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_20
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1879
+        width: 39
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1658045497b9d3b30800000000000000
+      internalID: 4268738966972302689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_21
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1879
+        width: 58
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c915bf806acfcd10800000000000000
+      internalID: 2148158063355697609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_22
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1879
+        width: 105
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bc6c167d3dd6940800000000000000
+      internalID: 5291118059242048288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_23
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1879
+        width: 105
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c3451123cfde960800000000000000
+      internalID: 7633034235432156284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_24
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1879
+        width: 102
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823d28df734bbb320800000000000000
+      internalID: 2574849764541780776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_25
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1791
+        width: 46
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835754de69f622950800000000000000
+      internalID: 6422818712600278328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1791
+        width: 70
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4505b92d952a3b80800000000000000
+      internalID: -8414371596848528053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_27
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1791
+        width: 43
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb085977b6f72350800000000000000
+      internalID: 5992029097114995638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_28
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1791
+        width: 32
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f117d15220755e410800000000000000
+      internalID: 1505705317149536543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1791
+        width: 50
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1935a8d4af3f3050800000000000000
+      internalID: 5782410423808899356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_30
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1791
+        width: 33
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e932c99abc39c23c0800000000000000
+      internalID: -4382965834405108834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_31
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1791
+        width: 52
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86abe0497233f8770800000000000000
+      internalID: 8615160857263782504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_32
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1791
+        width: 40
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c4aa0694be54350800000000000000
+      internalID: 6000460778927967380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_33
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1791
+        width: 64
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581a1931a06e0e8c0800000000000000
+      internalID: -3971921940388404859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_34
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1791
+        width: 46
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e256ff0561da5c0800000000000000
+      internalID: -4202678340128788968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_35
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1711
+        width: 57
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a6ac2c4597f3e450800000000000000
+      internalID: 6117004939499447974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_36
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1711
+        width: 36
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c0857bd02616b10800000000000000
+      internalID: 1972965922815085572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1711
+        width: 50
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed424e45cb059f50800000000000000
+      internalID: 6887424147182472675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_38
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1711
+        width: 54
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2091e7f5e976750800000000000000
+      internalID: 6298176736875578075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_39
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1711
+        width: 49
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11740f80c05463f60800000000000000
+      internalID: 8013668504944264977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_40
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1711
+        width: 35
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8c8806c20c7580800000000000000
+      internalID: -8828178119982806279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1711
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542732a03b834b280800000000000000
+      internalID: -9028529011350605243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_42
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1631
+        width: 89
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4878396e34817c0800000000000000
+      internalID: -4100452803124165392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_43
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1631
+        width: 88
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56ab4971f03a2830800000000000000
+      internalID: 4047101028826064478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1631
+        width: 88
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9745f1a18b92920800000000000000
+      internalID: 2966104251934472617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_45
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1631
+        width: 69
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aefa4193c1a36d0800000000000000
+      internalID: -3010062369457968636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_46
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1631
+        width: 66
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff25432e2b24da30800000000000000
+      internalID: 4239060626422706161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1631
+        width: 68
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f2a84573776c720800000000000000
+      internalID: 2866109292393148303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1559
+        width: 105
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087b93f26d52d4ad0800000000000000
+      internalID: -2716473398389000320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1559
+        width: 122
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad4209ab158b94a0800000000000000
+      internalID: -6585523676253106776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1559
+        width: 112
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3402368ee59240da0800000000000000
+      internalID: -5979608917638700989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_51
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1559
+        width: 81
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2329958781ba7dba0800000000000000
+      internalID: -6064190251644382670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_52
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1470
+        width: 52
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bf0c6ad4131c120800000000000000
+      internalID: 2432279483336686389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_53
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1470
+        width: 54
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eae3372e8feafc0800000000000000
+      internalID: -3481571810431029621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1470
+        width: 83
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12c77730abfd9c20800000000000000
+      internalID: 3215002374556336669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_55
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1470
+        width: 76
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21044974eb72fa00800000000000000
+      internalID: 788829105960517933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_56
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1471
+        width: 51
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd6515da6f50b460800000000000000
+      internalID: 7255403912139992504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_57
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1470
+        width: 108
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d80b0aa11b320990800000000000000
+      internalID: -7421304288899823407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_58
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1375
+        width: 47
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4e485722cf1dbc0800000000000000
+      internalID: -3759946988946922242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_59
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 1375
+        width: 65
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98be3a1f7040f5cf0800000000000000
+      internalID: -261485821198865527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_60
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1375
+        width: 60
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8873a43bc457080c0800000000000000
+      internalID: -4575528249122474104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_61
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1375
+        width: 38
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7231065dcbc9781d0800000000000000
+      internalID: -3348535463079046361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_62
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1375
+        width: 82
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13ccfe147e68ff8c0800000000000000
+      internalID: -3963300819260945359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_63
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1375
+        width: 73
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4196ac000e2c4f0800000000000000
+      internalID: -809838688972761942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_64
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1375
+        width: 50
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b98b6add7099d0800000000000000
+      internalID: -2769575393772325856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1279
+        width: 63
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac162b7d23f65f10800000000000000
+      internalID: 2258259639838055591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_66
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1279
+        width: 79
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff4ba74b85e5eb10800000000000000
+      internalID: 2010265195056418815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_67
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1279
+        width: 55
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6280c0022c842d900800000000000000
+      internalID: 707708090049103910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_68
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1279
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee26e7bf00097840800000000000000
+      internalID: 5222205310422626019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_69
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1279
+        width: 71
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22701995e7ff84410800000000000000
+      internalID: 1461698997215364898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_70
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1279
+        width: 53
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba2445d4f6ba4b30800000000000000
+      internalID: 4272428359180626621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_71
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1279
+        width: 39
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6eae89ba94975280800000000000000
+      internalID: -9054605133546082707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_72
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1191
+        width: 42
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b548a2c97fd1130800000000000000
+      internalID: 3539257132283353952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_73
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1191
+        width: 38
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab07937b0f19a190800000000000000
+      internalID: -7950789533101519957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_74
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1191
+        width: 37
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e572ab940d32f2aa0800000000000000
+      internalID: -6183684385859295394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_75
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 1191
+        width: 57
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36864279ac4ed8990800000000000000
+      internalID: -7381992655420102557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_76
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1191
+        width: 62
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9426608edf0110ed0800000000000000
+      internalID: -2449658039607336375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_77
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1191
+        width: 35
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8b069e1c31e3540800000000000000
+      internalID: 4989447160738134210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_78
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1191
+        width: 44
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1409ee047eca82c0800000000000000
+      internalID: -4428500285703781346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_79
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 1191
+        width: 60
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84dba2e5642512750800000000000000
+      internalID: 6278389817712229704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1191
+        width: 42
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9330adde834c450800000000000000
+      internalID: 6108069588837284278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_81
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1103
+        width: 34
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eee78d95cb834eec0800000000000000
+      internalID: -3538641025593999634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_82
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1103
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0120c715ce87b4a50800000000000000
+      internalID: 6506427043041509904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_83
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1103
+        width: 63
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0ae9f42721ac570800000000000000
+      internalID: 8487616729904488668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_84
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1103
+        width: 74
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8261e185198046b0800000000000000
+      internalID: -5314096834830835060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_85
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1103
+        width: 35
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a064dbc34a5b30a60800000000000000
+      internalID: 7639149109948794378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_86
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1103
+        width: 48
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09af9b82a75b9b90800000000000000
+      internalID: -7234092020801754870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_87
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1103
+        width: 58
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a45d4f49b4f6b200800000000000000
+      internalID: 195612710573790368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_88
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1103
+        width: 68
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ee1f9b89a3cb9d0800000000000000
+      internalID: -2757264444228506013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_89
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1007
+        width: 29
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9503155c06a0859b0800000000000000
+      internalID: -5091307967998775207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_90
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1007
+        width: 49
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267ee5e78f6a03560800000000000000
+      internalID: 7291511382915082082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_91
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1007
+        width: 67
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560411c078dd3e8b0800000000000000
+      internalID: -5124008378924711835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_92
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1007
+        width: 28
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251dbe5be6cb8d370800000000000000
+      internalID: 8347629093015769426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_93
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1007
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee7c5c6bd8907d20800000000000000
+      internalID: 3274284997281611488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_94
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1007
+        width: 78
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca48dc5375313cc20800000000000000
+      internalID: 3225443023413150892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_95
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1007
+        width: 78
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d929e559af936f370800000000000000
+      internalID: 8355929907043144349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 911
+        width: 41
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fa1eee203f1ba00800000000000000
+      internalID: 770664205180317503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_97
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 911
+        width: 39
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8491074a6b44aafa0800000000000000
+      internalID: -5788738819797804728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_98
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 911
+        width: 33
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab061e3472d0d830800000000000000
+      internalID: 4094003457979452331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_99
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 911
+        width: 45
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb42e9fae4ff59c0800000000000000
+      internalID: -3936158259246642228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_100
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 911
+        width: 44
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13faee5f5bb8e11d0800000000000000
+      internalID: -3378109056849891535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_101
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 911
+        width: 30
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a80c8cf1a1f22e0800000000000000
+      internalID: -2148469773418067362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_102
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 911
+        width: 55
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d213b97a33d6b9410800000000000000
+      internalID: 1484900570771435821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_103
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 911
+        width: 51
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b9787f193fd7870800000000000000
+      internalID: 8682363464888851253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_104
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 831
+        width: 52
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22e4c8459dd2eff0800000000000000
+      internalID: -8200616060591574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_105
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 831
+        width: 54
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a31661c18abbcf0800000000000000
+      internalID: -235409716918797691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_106
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 831
+        width: 65
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6b0c1d246d89220800000000000000
+      internalID: 2492977976224823002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 831
+        width: 47
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61185fffa77d11ff0800000000000000
+      internalID: -67035596153585386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_108
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 831
+        width: 70
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dea1bfb8cc871f0800000000000000
+      internalID: -1046862011778273922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_109
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 831
+        width: 45
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9715edfd1b9fa3b0800000000000000
+      internalID: -5499006066880079972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_110
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 831
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa602f1a11baaea0800000000000000
+      internalID: -5860677239319794947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_111
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 751
+        width: 59
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b3b8ace1acbbb780800000000000000
+      internalID: -8666125654298152007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_112
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 751
+        width: 82
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7c902aa7e3b74d0800000000000000
+      internalID: -3135844019107936336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_113
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 751
+        width: 67
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722872f8989a6d180800000000000000
+      internalID: -9090892389523422681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_114
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 751
+        width: 64
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df4a95947008b300800000000000000
+      internalID: 267964678554669011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_115
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 751
+        width: 65
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1792b7f7a0287b030800000000000000
+      internalID: 3510417416158652785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_116
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 751
+        width: 66
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689423144d1aa4430800000000000000
+      internalID: 3768001971247794566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_117
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 639
+        width: 63
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d8cb2cb097c1a0800000000000000
+      internalID: -6789298775374899161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_118
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 715
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde899a01aef54d50800000000000000
+      internalID: 6721057986541358811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_119
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 707
+        width: 8
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d5555de5f95ac0800000000000000
+      internalID: -3865788405433116284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_120
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 639
+        width: 37
+        height: 102
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14d981ff2eaadd40800000000000000
+      internalID: 5609987806782411802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_121
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 639
+        width: 43
+        height: 93
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a82caf2b410adf0800000000000000
+      internalID: -171114026896291292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_122
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 639
+        width: 49
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d6982ecd1b94b0800000000000000
+      internalID: -5432715754210929929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_123
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 639
+        width: 58
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f34a6a0785f414e10800000000000000
+      internalID: 2180110935889716287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_124
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 639
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e14eadfae17dba60800000000000000
+      internalID: 7691428992711016932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_125
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 639
+        width: 46
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe17b0d6848342e0800000000000000
+      internalID: -2142723283136078090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_126
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 639
+        width: 58
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d233e540ce1627060800000000000000
+      internalID: 6949724841299555117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_127
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 690
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c62df334bd1d09b0800000000000000
+      internalID: -5112397342192097596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_128
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 675
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de9959e95b0c05b0800000000000000
+      internalID: -5400929372329107754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_129
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 644
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec124776877c2da0800000000000000
+      internalID: -5968263986762605330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_130
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 534
+        width: 40
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4dbf72667703a8d0800000000000000
+      internalID: -2836415135273206453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_131
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 534
+        width: 62
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934ebdab35eb00af0800000000000000
+      internalID: -432136297401031623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_132
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 534
+        width: 61
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebe20ea81bd15950800000000000000
+      internalID: 6436166241534274531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_133
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 534
+        width: 57
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daebce2a33fb9a40800000000000000
+      internalID: 5376158011415587542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_134
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 534
+        width: 59
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 643e49c01ee6b4b30800000000000000
+      internalID: 4272630584348828486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_135
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 534
+        width: 81
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c0733d6e173f40800000000000000
+      internalID: 5708064507078689955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_136
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 584
+        width: 18
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b56535afc1f391d0800000000000000
+      internalID: -3345064224073882187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_137
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 534
+        width: 56
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd4f47d1317f0fc0800000000000000
+      internalID: -3526475524328174128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_138
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 568
+        width: 18
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132c969d82e79f740800000000000000
+      internalID: 5186315159805215281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_139
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 455
+        width: 50
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea41d2522a3098e0800000000000000
+      internalID: -1688785941171189023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_140
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 455
+        width: 98
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36c8ad7d777da290800000000000000
+      internalID: -7877508792338299334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_141
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 455
+        width: 98
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ed13d3bd5be2ac0800000000000000
+      internalID: -3877962275890274701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_142
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 359
+        width: 38
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9243d20c59e893cc0800000000000000
+      internalID: -3730794042474286039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_143
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 359
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26497da8adef6940800000000000000
+      internalID: 5291709395904316975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_144
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 359
+        width: 65
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb51bb746542b2f10800000000000000
+      internalID: 2245928792163554751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_145
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 359
+        width: 89
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd5c8dbf5a5491f0800000000000000
+      internalID: -1039106246767256144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_146
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 359
+        width: 58
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff4fa9418327dc80800000000000000
+      internalID: -8298124750212870158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_147
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 359
+        width: 70
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63978f028b0eaffd0800000000000000
+      internalID: -2307284777642198730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_148
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 279
+        width: 76
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62381672058339360800000000000000
+      internalID: 7175140548240573222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_149
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 279
+        width: 42
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1288da04555305a0800000000000000
+      internalID: -6556302813073735142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_150
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 279
+        width: 45
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8488279b636c40ff0800000000000000
+      internalID: -70713755789260728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_151
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 279
+        width: 35
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f3b90672bb0720800000000000000
+      internalID: 2813538612261680914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_152
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 279
+        width: 65
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c36679b04313520800000000000000
+      internalID: 2679980477651500120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_153
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 279
+        width: 87
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74787a57107715610800000000000000
+      internalID: 1608197390100563783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_154
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 222
+        width: 73
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d01cadcf45257f80800000000000000
+      internalID: -8109534529327460138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_155
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 222
+        width: 35
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a1aaffa739f2c10800000000000000
+      internalID: 2031004113452014219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_156
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 151
+        width: 43
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca1fa12c4ed1fcc0800000000000000
+      internalID: -3678915002020980030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_157
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 151
+        width: 42
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b752a9170a046b0800000000000000
+      internalID: -5314071150519289034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_158
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 151
+        width: 42
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc0cfe15956898a0800000000000000
+      internalID: -6298172387733271300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_159
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 151
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ad8bd97cf7fe5d0800000000000000
+      internalID: -3031063528875697580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_160
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 151
+        width: 42
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e69d9f5413d3700800000000000000
+      internalID: 521627308459126313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_161
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 151
+        width: 43
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb854040deca4750800000000000000
+      internalID: 6290067223403137996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_162
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 151
+        width: 43
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbac85f0c09a87540800000000000000
+      internalID: 5005936855084485309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_163
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 151
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963fce93afa628050800000000000000
+      internalID: 5801316892952818537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_164
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 151
+        width: 43
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd44063728ebbb060800000000000000
+      internalID: 6970374315776689373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_165
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 151
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c30bb53f7fec420800000000000000
+      internalID: 2652329855155190854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_166
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 63
+        width: 43
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb08495ed4ec6e10800000000000000
+      internalID: 2192378762254355390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_167
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 42
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb2b6b2a61dcfa0800000000000000
+      internalID: -5778937858740798564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_168
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 63
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d9700a22ca3f890800000000000000
+      internalID: -7425402095890096773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_169
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 63
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cb8708630cb05b0800000000000000
+      internalID: -5401011987784614870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_170
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 63
+        width: 42
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee149fc2f01bc940800000000000000
+      internalID: 5317362420091723493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_171
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 63
+        width: 52
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90a42d1050b0d940800000000000000
+      internalID: 5318945018057367709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_172
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 65
+        width: 30
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be4b9341f7b8370800000000000000
+      internalID: 8325888060968725276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_173
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 67
+        width: 34
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bb6ac1a0ab4e8c0800000000000000
+      internalID: -3970844418840806591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_174
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 63
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f116937b3c100970800000000000000
+      internalID: 8718999920257143287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_175
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 63
+        width: 43
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bfaa28cf5e04630800000000000000
+      internalID: 3909377349244353422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_176
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 63
+        width: 42
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d39b8005d1a5120800000000000000
+      internalID: 2403265580736527680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_177
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc45ff0482eed5b00800000000000000
+      internalID: 819072563907876044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_178
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 7
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d37c43f774982b0800000000000000
+      internalID: -5581851651477127778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_179
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 7
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daaf846bbd67b6c0800000000000000
+      internalID: -4127709881848321323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_180
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 7
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e59dbd32e3bda190800000000000000
+      internalID: -7949499982959241753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_181
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 7
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a2684fbe0b1840800000000000000
+      internalID: 5195762809817966749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Streets of Rage 3 - Blaze2_182
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 7
+        width: 50
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a255f9266b837b10800000000000000
+      internalID: 1978077932252648097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b0151a3cb8873404fb45717124ed6d3f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
