@@ -1,2 +1,2 @@
 # StateMachine
- Project to test different state machine elements
+ Unity project to test different state machine elements
